@@ -23,6 +23,12 @@ a:hover{
 	background-color: #5b738c;
 	padding: 10px solid #5b738c;
 }
+a:active{
+	text-decoration: none;
+	color: white;
+	background-color: #5b738c;
+	padding: 10px solid #5b738c;
+}
 .big{
 	background-color: LightGray;
 	border: 20px LightGray solid;
