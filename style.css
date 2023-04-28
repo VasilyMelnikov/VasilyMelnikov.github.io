@@ -38,3 +38,6 @@ a.lnk:active{
 	justify-content: space-between;
 	margin: 20px;
 }
+.content{
+	max-width: 150px;
+}
