@@ -71,6 +71,6 @@ a.lnk:active{
 	position: sticky;
 	top: 0;
 }
-class:has(a#math:hover){
+class:has(a#maths:hover){
 	background-color: red;
 }
