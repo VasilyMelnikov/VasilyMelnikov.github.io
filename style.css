@@ -53,11 +53,6 @@ a.lnk:active{
 .otherlink{
 	font-weight: bold;
 	font-size: 18px;
-	color: LightGray;
-}
-#maths{
-	font-weight: bold;
-	font-size: 18px;
 	color: Gray;
 }
 .blg{
@@ -70,7 +65,4 @@ a.lnk:active{
 	align-self: flex-start;
 	position: sticky;
 	top: 0;
-}
-class:has(a#maths:hover){
-	background-color: red;
 }
