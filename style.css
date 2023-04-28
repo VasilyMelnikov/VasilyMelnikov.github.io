@@ -55,4 +55,5 @@ a.lnk:active{
 .toc{
 	margin: 10px;
 	max-width: 480px;
+	position: sticky;
 }
