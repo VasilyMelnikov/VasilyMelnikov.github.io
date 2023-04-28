@@ -2,3 +2,10 @@ html {
   height: 100%;
   width: 100%;
 }
+@font-face{
+	font-family: monaco;
+	src: url("Monaco.woff")
+}
+p{
+	font-family: monaco;
+}
