@@ -5,25 +5,25 @@ html {
 p,h1,a{
 	font-family: "Lucida Sans";
 }
-a.big:link{
+a.menu:link{
   text-decoration: none;
   color: #5b738c;
   padding: 10px;
 }
-a.big:visited{
+a.menu:visited{
   text-decoration: none;
   color: #5b738c;
   border: 2px solid hidden;
   border-radius: 5px;
   padding: 10px;
 }
-a.big:hover{
+a.menu:hover{
 	text-decoration: none;
 	color: white;
 	background-color: #5b738c;
 	padding: 10px solid #5b738c;
 }
-a.big:active{
+a.menu:active{
 	text-decoration: none;
 	color: white;
 	background-color: #5b738c;
