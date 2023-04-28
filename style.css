@@ -43,6 +43,7 @@ a.lnk:active{
 	max-width: 1200px;
 	justify-content: center;
 	height: 100%;
+	align-self: flex-start;
 }
 .titlelink{
 	font-weight: bold;
