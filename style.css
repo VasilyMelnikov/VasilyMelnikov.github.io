@@ -4,7 +4,7 @@ html {
 }
 @font-face{
 	font-family: monaco;
-	src: url("Monaco.woff")
+	src: url("Monaco.woff");
 }
 p{
 	font-family: monaco;
