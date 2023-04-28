@@ -42,6 +42,7 @@ a.lnk:active{
 	display: flex;
 	max-width: 1200px;
 	justify-content: center;
+	height: 100%;
 }
 .titlelink{
 	font-weight: bold;
