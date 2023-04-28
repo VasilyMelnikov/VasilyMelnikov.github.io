@@ -40,7 +40,7 @@ a.lnk:active{
 }
 .content{
 	display: flex;
-	max-width: 1200px;
+	max-width: 1300px;
 	justify-content: center;
 }
 .titlelink{
