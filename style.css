@@ -56,4 +56,5 @@ a.lnk:active{
 	margin: 10px;
 	max-width: 480px;
 	position: sticky;
+	top: 0;
 }
