@@ -6,6 +6,10 @@ p{
 	font-family: "Lucida Sans";
 }
 .big{
-	display-flex;
+	display: flex;
 	background-color: LightGray;
+}
+.menu{
+	display: flex;
+	justify-content: space-between;
 }
