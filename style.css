@@ -22,6 +22,7 @@ a.lnk:hover{
 	color: white;
 	background-color: #5b738c;
 	padding: 10px solid #5b738c;
+	transition-duration: 0.2s;
 }
 a.lnk:active{
 	text-decoration: none;
