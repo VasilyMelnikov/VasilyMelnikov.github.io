@@ -66,6 +66,6 @@ a.lnk:active{
 	position: sticky;
 	top: 0;
 }
-math:has(a.mathlink:hover){
+.math:has(a.mathlink:hover){
 	background-color: LightGray;
 }
