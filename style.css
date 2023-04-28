@@ -3,5 +3,9 @@ html {
   width: 100%;
 }
 p{
-	font-family: default;
+	font-family: "Lucida Sans";
+}
+.big{
+	display-flex;
+	background-color: LightGray;
 }
