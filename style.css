@@ -11,6 +11,10 @@ a:link{
 a:visited{
   text-decoration: none;
 }
+a:hover{
+	border: 2px solid red;
+	border-radius: 5px;
+}
 .big{
 	background-color: LightGray;
 	border: 20px LightGray solid;
