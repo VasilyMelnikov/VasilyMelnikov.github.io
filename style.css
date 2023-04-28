@@ -8,7 +8,7 @@ p,h1,a{
 a:link{
   text-decoration: none;
   color: #5b738c;
-  border: 2px solid hidden
+  border: 2px hidden #5b738c;
   border-radius: 5px;
 }
 a:visited{
@@ -19,7 +19,8 @@ a:visited{
 }
 a:hover{
 	text-decoration: none;
-	color: white
+	color: white;
+	border: 2px solid #5b738c;
 }
 .big{
 	background-color: LightGray;
