@@ -39,5 +39,6 @@ a.lnk:active{
 	margin: 20px;
 }
 .content{
-	max-width: 150px;
+	display: flex;
+	max-width: 1920px;
 }
