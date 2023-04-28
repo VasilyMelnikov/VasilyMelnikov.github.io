@@ -7,14 +7,19 @@ p,h1,a{
 }
 a:link{
   text-decoration: none;
-  border: 2px;
+  color: #7289a1;
+  border: 2px solid hidden
+  border-radius: 5px;
 }
 a:visited{
   text-decoration: none;
+  color: #7289a1;
+  border: 2px solid hidden;
+  border-radius: 5px;
 }
 a:hover{
-	border: 2px solid #929da8;
-	border-radius: 5px;
+	text-decoration: none;
+	color: white
 }
 .big{
 	background-color: LightGray;
