@@ -7,12 +7,12 @@ p,h1,a{
 }
 a.lnk:link{
   text-decoration: none;
-  color: #5b738c;
+  color: Gray;
   padding: 10px;
 }
 a.lnk:visited{
   text-decoration: none;
-  color: #5b738c;
+  color: Gray;
   border: 2px solid hidden;
   border-radius: 5px;
   padding: 10px;
@@ -20,14 +20,14 @@ a.lnk:visited{
 a.lnk:hover{
 	text-decoration: none;
 	color: white;
-	background-color: #5b738c;
-	padding: 10px solid #5b738c;
+	background-color: Gray;
+	padding: 10px;
 	transition-duration: 0.4s;
 }
 a.lnk:active{
 	text-decoration: none;
 	color: white;
-	background-color: #5b738c;
+	background-color: Gray;
 	padding: 10px;
 }
 a.otherlink:link{
