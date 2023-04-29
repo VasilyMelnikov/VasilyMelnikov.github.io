@@ -113,8 +113,8 @@ a.otherlink:hover{
 	font-family: "Lucida Sans";
 }
 .form{
-	width: 50%
+	width: 100%
 }
-a.form{
-	width: 50%;
+span.form{
+	width: 100%;
 }
