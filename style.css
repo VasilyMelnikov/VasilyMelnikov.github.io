@@ -112,6 +112,14 @@ a.otherlink:hover{
 	border-radius: 5px;
 	font-family: "Lucida Sans";
 }
+.def{
+	display: flex;
+	margin: 20px;
+	padding: 5px;
+	border: 5px #8b0000 solid;
+	border-radius: 5px;
+	font-family: "Lucida Sans";
+}
 .form{
 	width: 100%
 }
