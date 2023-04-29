@@ -113,5 +113,5 @@ a.otherlink:hover{
 	font-family: "Lucida Sans";
 }
 .form{
-	display: flex;
+	width: 50%;
 }
