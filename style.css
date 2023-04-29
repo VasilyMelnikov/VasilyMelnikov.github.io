@@ -40,8 +40,8 @@ a.otherlink:visited{
 }
 a.otherlink:hover{
 	text-decoration: none;
-	padding: 5px solid Gray;
 	color: white;
+	padding: 5px solid Gray;
 	
 }
 .big{
