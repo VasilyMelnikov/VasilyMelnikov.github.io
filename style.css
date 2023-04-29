@@ -28,7 +28,7 @@ a.lnk:active{
 	text-decoration: none;
 	color: white;
 	background-color: #5b738c;
-	padding: 10px solid #5b738c;
+	padding: 10px;
 }
 a.otherlink:link{
 	text-decoration: none;
@@ -41,7 +41,8 @@ a.otherlink:visited{
 a.otherlink:hover{
 	text-decoration: none;
 	color: white;
-	padding: 5px solid Gray;
+	background-color: Gray;
+	padding: 5px;
 	
 }
 .big{
