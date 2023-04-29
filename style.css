@@ -79,6 +79,16 @@ a.otherlink:hover{
 	margin: 10px;
 	max-width: 700px;
 }
+.blog{
+	margin: 10px;
+	max-width: 1200px;
+}
+.blogcontent{
+	display: flex;
+	max-width: 1500px;
+	justify-content: center;
+	height: 100%;
+}
 .toc{
 	margin: 10px;
 	max-width: 480px;
