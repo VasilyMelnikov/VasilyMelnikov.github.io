@@ -99,6 +99,6 @@ a.otherlink:hover{
 .thm{
 	margin: 20px;
 	padding: 5px;
-	border: 5px Gray solid;
+	border: 5px #000080 solid;
 	border-radius: 5px;
 }
