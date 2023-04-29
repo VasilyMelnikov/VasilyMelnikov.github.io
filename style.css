@@ -112,3 +112,6 @@ a.otherlink:hover{
 	border-radius: 5px;
 	font-family: "Lucida Sans";
 }
+.form{
+	display: flex;
+}
