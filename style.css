@@ -43,7 +43,7 @@ a.otherlink:hover{
 	color: white;
 	background-color: Gray;
 	padding: 2px;
-	
+	transition-duration: 0.4s;
 }
 .big{
 	background-color: LightGray;
