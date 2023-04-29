@@ -32,17 +32,17 @@ a.lnk:active{
 }
 a.otherlink:link{
 	text-decoration: none;
-	padding: 5px;
+	padding: 4px;
 }
 a.otherlink:visited{
 	text-decoration: none;
-	padding: 5px;
+	padding: 4px;
 }
 a.otherlink:hover{
 	text-decoration: none;
 	color: white;
 	background-color: Gray;
-	padding: 5px;
+	padding: 4px;
 	
 }
 .big{
