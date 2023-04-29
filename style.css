@@ -70,6 +70,11 @@ a.otherlink:hover{
 	font-size: 18px;
 	color: Gray;
 }
+.otherlinks{
+	font-weight: bold;
+	font-size: 18px;
+	color: Gray;
+}
 .blg{
 	margin: 10px;
 	max-width: 700px;
