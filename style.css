@@ -98,7 +98,6 @@ a.otherlink:hover{
 }
 .thm{
 	display: flex;
-	justify-content: column;
 	margin: 20px;
 	padding: 5px;
 	border: 5px #000080 solid;
