@@ -30,6 +30,20 @@ a.lnk:active{
 	background-color: #5b738c;
 	padding: 10px solid #5b738c;
 }
+a.otherlink:link{
+	text-decoration: none;
+	padding: 5px;
+}
+a.otherlink:visited{
+	text-decoration: none;
+	padding: 5px;
+}
+a.otherlink:hover{
+	text-decoration: none;
+	padding: 5px solid Gray;
+	color: white;
+	
+}
 .big{
 	background-color: LightGray;
 	border: 20px LightGray solid;
