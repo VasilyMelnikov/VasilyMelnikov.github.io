@@ -5,6 +5,9 @@ html {
 p,h1,a{
 	font-family: "Lucida Sans";
 }
+p,span,a{
+	font-size: 14px;
+}
 a.lnk:link{
   text-decoration: none;
   color: Gray;
