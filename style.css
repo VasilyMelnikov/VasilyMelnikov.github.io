@@ -138,4 +138,5 @@ span.form{
 .eqn{
 	width: 100%;
 	overflow-x: scroll;
+	max-width: 1200px;
 }
