@@ -136,8 +136,10 @@ span.form{
 	width: 100%;
 }
 .eqn{
-	display: flex;
-	justify-content: space-evenly;
 	overflow-x: auto;
 	max-width: 75vw;
+}
+.equation{
+	display: flex;
+	justify-content: space-evenly;
 }
