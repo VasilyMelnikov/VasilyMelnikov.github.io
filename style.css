@@ -139,9 +139,3 @@ span.form{
 	overflow-x: auto;
 	max-width: 100%;
 }
-.equation{
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
