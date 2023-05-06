@@ -137,7 +137,7 @@ span.form{
 }
 .eqn{
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-evenly;
 	overflow-x: auto;
 	max-width: 75vw;
 }
