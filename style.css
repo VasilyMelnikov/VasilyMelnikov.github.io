@@ -48,6 +48,12 @@ a.otherlink:hover{
 	padding: 2px;
 	transition-duration: 0.4s;
 }
+a.otherlinks:link{
+	text-decoration: none;
+}
+a.otherlinks:visited{
+	text-decoration: none;
+}
 .big{
 	background-color: LightGray;
 	border: 20px LightGray solid;
