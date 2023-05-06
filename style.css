@@ -136,6 +136,8 @@ span.form{
 	width: 100%;
 }
 .eqn{
+	display: flex;
+	justify-content: center;
 	overflow-x: auto;
 	max-width: 75vw;
 }
