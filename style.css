@@ -137,5 +137,5 @@ span.form{
 }
 .eqn{
 	overflow-x: auto;
-	max-width: 100%;
+	overflow-y: hidden;
 }
