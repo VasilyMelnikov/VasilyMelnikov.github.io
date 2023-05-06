@@ -135,3 +135,7 @@ a.otherlinks:visited{
 span.form{
 	width: 100%;
 }
+span.MJXc-display{
+	overflow-x: auto;
+	overflow-y: hidden;
+}
