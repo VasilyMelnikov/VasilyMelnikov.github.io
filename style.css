@@ -136,6 +136,6 @@ span.form{
 	width: 100%;
 }
 .eqn{
-	overflow-x: scroll;
+	overflow-x: auto;
 	max-width: 75vw;
 }
