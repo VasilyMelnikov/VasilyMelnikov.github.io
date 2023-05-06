@@ -135,7 +135,9 @@ a.otherlinks:visited{
 span.form{
 	width: 100%;
 }
-.MathJax_Display, .MJXc-display, .MathJax_SVG_Display{
-	overflow-x: auto;
-	overflow-y: hidden;
+p > .MathJax_Preview:first-child + span.MathJax[data-mathml*=mtable]{
+	overflow: auto;
+	display: inline-block;
+	max-width: 100%;
+	vertical-align: bottom;
 }
