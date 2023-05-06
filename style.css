@@ -135,6 +135,6 @@ a.otherlinks:visited{
 span.form{
 	width: 100%;
 }
-.mjx-chtml {
-  overflow-x: auto;
+.eqn{
+	overflow-x: auto;
 }
