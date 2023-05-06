@@ -135,7 +135,7 @@ a.otherlinks:visited{
 span.form{
 	width: 100%;
 }
-.MathJax_Display{
+.MathJax_Display, .MJXc-display, .MathJax_SVG_Display{
 	overflow-x: auto;
 	overflow-y: hidden;
 }
